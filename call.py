@@ -1,1 +1,3 @@
-from my_module import my_module message()
+import my_module as mm
+mm.message()
+
